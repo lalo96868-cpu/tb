@@ -1,5 +1,5 @@
 #001 - Muhammad Sagagi - PavaoHelena2639@outlook.com - Inactive - 小额户 - 1380
-#002 - Salisu Shuaibu - LoerzelLemmons4192@outlook.com - Active - 小额户 - 530
+#002 - Salisu Shuaibu - LoerzelLemmons4192@outlook.com - Active - 小额户 - 1630
 #003 - Aisha So Garba - GadwahMonachino403@outlook.com - Inactive - 大额户 - 0
 #004 - Bakir SAID - PladsonSpitz8112@outlook.com - Inactive - 大额户 - 0
 #005 - Auwal Abdulkadlr - MullenauxBlankschan5725@outlook.com - Inactive - 大额户 - 0
@@ -16,3 +16,12 @@
 #016 - Bilkisu Nuhu Indabo - SchlagPatty2743@outlook.com - Active - 小额户 - 2219
 #017 - Mohammed Alhaji Alsamni - VivesMcilwaine8209@outlook.com - Active - 大额户 - 600
 #018 - Yakubu Muhammad Sani - PlocekBault2612@outlook.com - Inactive - 大额户 - 0
+#019 - Ali Ali - CharryDegrande4146@outlook.com - Active - 大额户 - 0
+#020 - Jamilu Muhammad - StewardsonBoggan1643@outlook.com - Active - 大额户 - 0
+#021 - Abubakar Yusuf Jibril - KirnerUsher9380@outlook.com - Active - 中额户 - 100
+#022 - Musa Aminu - VanliereTimmermans3489@outlook.com - Active - 大额户 - 0
+#023 - Hajjara Abdullahi - OrgillReategui1704@outlook.com - Active - 大额户 - 0
+#024 - Hassan Ali - MaganAlderman4404@outlook.com - Inactive - 大额户 - 0
+#025 - Zainab Ahmed Abdullahi - BeghtolJolyon5538@outlook.com - Active - 大额户 - 0
+#026 - Hamza Kaila - SondermanPiorkowski5446@outlook.com - Active - 大额户 - 0
+#027 - Salihu Abubakar Ibrahim - PallantGumbel580@outlook.com - Active - 大额户 - 0
